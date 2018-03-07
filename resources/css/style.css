@@ -16,3 +16,10 @@ h1 {
 a  {
   color: white;
 }
+
+#NewYork {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url('../images/the-flatiron-building.png');
+}
