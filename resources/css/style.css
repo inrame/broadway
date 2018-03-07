@@ -24,3 +24,15 @@ a  {
   color: white;
   background-image: url('../images/the-flatiron-building.png');
 }
+
+/* Footer */
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+#copyright{
+  font-size: 8px;
+}
